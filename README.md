@@ -17,7 +17,7 @@ Jace Dillon, Jaden Martin, and Max Holloway
 See the Stargate Web App (https://stargateplatform.azurewebsites.net/)
 
 ## Demo
-https://github.com/jacebutcher/stargate-api/assets/114118425/300ac6c9-1b11-4595-8262-b04bf5d50800
+https://github.com/jacebutcher/stargate-api/assets/114118425/32331af5-674d-475b-b99f-e2dd84411111
 
 ## Features
 -Exception Logging into API_Exceptions table in DB.
